@@ -1,0 +1,4 @@
+name: PearlFixer
+version: '${project.version}'
+main: rip.plugins.pearlfixer.PearlFixer
+api-version: '1.19'
